@@ -1,0 +1,14 @@
+.logonav{
+  max-width:60px;
+  margin-top: -15px;
+  height:60px;
+}
+
+html{
+  height: 100%;
+}
+
+.icon-health-services {
+  font-size: 7em;
+  color: black;
+}
