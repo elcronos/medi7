@@ -4,10 +4,11 @@ babel-compiler@6.8.4
 babel-runtime@0.1.9_1
 base64@1.0.9
 binary-heap@1.0.9
-biolog:font-medical-icons@0.0.1
 blaze@2.1.8
 blaze-tools@1.0.9
 boilerplate-generator@1.0.9
+caching-compiler@1.0.6
+caching-html-compiler@1.0.6
 callback-hook@1.0.9
 check@1.2.3
 ddp@1.2.5
@@ -59,6 +60,8 @@ spacebars@1.0.12
 spacebars-compiler@1.0.12
 standard-minifier-css@1.0.8
 standard-minifier-js@1.0.8
+static-html@1.0.11
+templating-tools@1.0.4
 tracker@1.0.14
 twbs:bootstrap@3.3.6
 ui@1.0.11
